@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34545" started-at="2019-04-16T17:19:16Z" finished-at="2019-04-16T17:19:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34545" started-at="2019-04-16T17:19:16Z" finished-at="2019-04-16T17:19:51Z">
+      <class name="testScripts.Module6_kotakInsurance">
+        <test-method status="PASS" signature="beforesuite()[pri:0, instance:testScripts.Module6_kotakInsurance@335eadca]" name="beforesuite" is-config="true" duration-ms="234" started-at="2019-04-16T17:19:16Z" finished-at="2019-04-16T17:19:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:testScripts.Module6_kotakInsurance@335eadca]" name="BeforeClass" is-config="true" duration-ms="16" started-at="2019-04-16T17:19:16Z" finished-at="2019-04-16T17:19:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.Module6_kotakInsurance@335eadca]" name="beforemethod" is-config="true" duration-ms="15" started-at="2019-04-16T17:19:16Z" finished-at="2019-04-16T17:19:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.Module6_kotakInsurance.TC601() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="TC601()[pri:0, instance:testScripts.Module6_kotakInsurance@335eadca]" name="TC601" duration-ms="34498" started-at="2019-04-16T17:19:16Z" finished-at="2019-04-16T17:19:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC601 -->
+        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:testScripts.Module6_kotakInsurance@335eadca]" name="aftermethod" is-config="true" duration-ms="16" started-at="2019-04-16T17:19:51Z" finished-at="2019-04-16T17:19:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC601 status=SUCCESS method=Module6_kotakInsurance.TC601()[pri:0, instance:testScripts.Module6_kotakInsurance@335eadca] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:testScripts.Module6_kotakInsurance@335eadca]" name="AfterClass" is-config="true" duration-ms="0" started-at="2019-04-16T17:19:51Z" finished-at="2019-04-16T17:19:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:testScripts.Module6_kotakInsurance@335eadca]" name="aftersuite" is-config="true" duration-ms="9071" started-at="2019-04-16T17:19:51Z" finished-at="2019-04-16T17:20:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- testScripts.Module6_kotakInsurance -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
